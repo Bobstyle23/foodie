@@ -26,3 +26,15 @@ body {
   line-height: 1;
   color: #555;
 }
+
+.hero {
+  max-width: 130rem;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.hero-img {
+  width: 100%;
+  object-fit: cover;
+}
