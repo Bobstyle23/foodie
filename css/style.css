@@ -108,6 +108,13 @@ body {
 /*~ UTILITY CLASSES */
 
 /** HEADER */
+/* FIX: */
+/* TODO: */
+/* HACK: */
+/* WARN: */
+/* PERF: */
+/* NOTE: */
+/* TEST: */
 
 .header {
   display: flex;
@@ -117,11 +124,6 @@ body {
   height: 9.6rem;
   padding: 0 4.8rem;
   position: relative;
-}
-
-.hello-world {
-  height: 20rem;
-  width: 20rem;
 }
 
 .logo {
